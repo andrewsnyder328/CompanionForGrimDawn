@@ -1,5 +1,5 @@
 {
-  "homepage": "http://andrewsnyder328.github.com/CompanionForGrimDawn",
+  "homepage": "http://andrewsnyder328.github.io/CompanionForGrimDawn",
   "name": "grim-dawn",
   "version": "0.1.0",
   "private": true,
@@ -8,7 +8,6 @@
     "@emotion/core": "^10.0.22",
     "@emotion/styled": "^10.0.23",
     "emotion-theming": "^10.0.19",
-    "gh-pages": "^2.1.1",
     "react": "^16.11.0",
     "react-dom": "^16.11.0",
     "react-scripts": "3.2.0"
@@ -35,5 +34,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^2.1.1"
   }
 }
