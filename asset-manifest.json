@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/CompanionForGrimDawn/static/css/main.b100e6da.chunk.css",
+    "main.js": "/CompanionForGrimDawn/static/js/main.598fe93a.chunk.js",
+    "main.js.map": "/CompanionForGrimDawn/static/js/main.598fe93a.chunk.js.map",
+    "runtime-main.js": "/CompanionForGrimDawn/static/js/runtime-main.c4190974.js",
+    "runtime-main.js.map": "/CompanionForGrimDawn/static/js/runtime-main.c4190974.js.map",
+    "static/js/2.fcb2b400.chunk.js": "/CompanionForGrimDawn/static/js/2.fcb2b400.chunk.js",
+    "static/js/2.fcb2b400.chunk.js.map": "/CompanionForGrimDawn/static/js/2.fcb2b400.chunk.js.map",
+    "index.html": "/CompanionForGrimDawn/index.html",
+    "precache-manifest.2db100edce34694ddb94c8be3c30da82.js": "/CompanionForGrimDawn/precache-manifest.2db100edce34694ddb94c8be3c30da82.js",
+    "service-worker.js": "/CompanionForGrimDawn/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/CompanionForGrimDawn/static/css/main.b100e6da.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4190974.js",
+    "static/js/2.fcb2b400.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.598fe93a.chunk.js"
+  ]
+}
