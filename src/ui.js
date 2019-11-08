@@ -163,7 +163,7 @@ export function cardDetail(selected, isOpen, onClose, resources, onAddItemClicke
         <Modal isOpen={isOpen} onClose={onClose}>
             <ModalOverlay/>
             <ModalContent>
-                <ModalHeader>{selected.name}</ModalHeader>
+                <ModalHeader> {selected.name} (Points: {selected.points})</ModalHeader>
                 <ModalCloseButton/>
                 <ModalBody>
                     {
